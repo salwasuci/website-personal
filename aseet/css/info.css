@@ -1,0 +1,130 @@
+/*start CSS menu*/
+nav{
+	height: 70px;
+	padding: 10px;
+	margin-top: 10px;
+}
+.logo{
+	width: 10px;
+	height: 10px;
+	margin-top: -10px;
+	margin-left: 10px;
+}
+.logo img{
+	height: 90px;
+	float: left;
+}
+nav ul{
+	list-style-type: none;
+	text-align: center;
+	margin: 0;
+	margin-top: 5px;
+	font-family:'Agency FB';
+}
+nav li{
+	display: inline;
+	margin-top: 10px;
+}
+nav a{
+	text-decoration: none;
+	font-size: 25px;
+	color: black;
+	margin:	10px;
+}
+nav a:hover{
+	color: 		#8B4513;
+}
+/*END CSS menu*/
+/*start CSS contact us*/
+#contact{
+	float: left;
+	padding:25px;
+	margin-top: -20px;	
+	margin-left: 169px;
+}
+.bg3{
+	float: left;
+}
+input{
+	width: 250px;
+	height: 40px;
+	background: white;
+	border:none;
+	margin-left: 10px;
+	padding-left: 25px;
+}
+.bg1 input {
+	padding-top: -100px;
+	padding-bottom: 10px;
+	width: 825px;
+	margin: 10px;
+}
+.b1 input{
+	padding-top: 10px;
+	padding-bottom: 155px;
+	width: 825px;
+	margin: 10px;
+	margin-top: 0px;
+}
+.bgi1 button{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 855px;
+	margin: 10px;
+	margin-top: 0px;
+}
+/*END CSS contact us*/
+/* start css content*/
+#sosmed{
+	float: left;
+	padding-left: 40px;
+	padding:25px;
+	text-align: center;	
+	margin-left: -190px;
+	margin-top: 30px;
+}
+.bagi4{
+	width: 250px;
+	float: left;
+	height: 470px;
+	padding: 18px;
+	margin-top: 10px;			
+}
+.bagi4 img{
+	width: 120px;
+	height: 120px;	
+	margin-left: 5px;
+
+}
+.bagi4 h2{
+	font-size: 16px;
+	margin-top: 26px;
+}
+/*END CSS conect*/
+/*CSS FOOTER*/
+#foot{
+	float: left;
+	padding:20px;
+	text-align: center;
+	margin-top: -268px;	
+	background-color: #FAEBD7;
+	height: 320px;
+	margin-left: -140px;
+}
+.b4{
+	width: 251px;
+	float: left;
+	height: 250px;
+	padding: 18px;
+	margin-top: 50px;	 	
+	text-align: left;
+	margin-left: -15px;	
+} 	
+.cr{
+	
+	text-align: center;
+	position: relative;
+	bottom:  20px;
+}
+
+/*END CSS Footer

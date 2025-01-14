@@ -1,0 +1,434 @@
+/*start CSS menu*/
+nav{
+	height: 70px;
+	padding: 10px;
+	margin-top: 10px;
+}
+.logo{
+	width: 10px;
+	height: 10px;
+	margin-top: -10px;
+	margin-left: 10px;
+}
+.logo img{
+	height: 90px;
+	float: left;
+}
+nav ul{
+	list-style-type: none;
+	text-align: center;
+	margin: 0;
+	margin-top: 5px;
+	font-family:'Agency FB';
+}
+nav li{
+	display: inline;
+	margin-top: 10px;
+}
+nav a{
+	text-decoration: none;
+	font-size: 25px;
+	color: black;
+	margin:	10px;
+}
+nav a:hover{
+	color: 		#8B4513;
+}
+/*END CSS menu*/
+/*start CSS content*/
+#varian{
+	float: left;
+	padding-left: 40px;
+	padding:25px;
+	text-align: center;
+	margin-left: 150px;	
+}
+.bagi2{
+	width: 456px;
+	float: left;
+	height: 470px;
+	padding: 18px;
+	margin-left: -30px;			
+}
+.bagi2 img{
+	width: 100%;
+	height: 220px;	
+	border-radius: 10px;
+}
+#varian2{
+	float: left;
+	padding-left: 40px;
+	padding:25px;
+	text-align: center;
+	margin-left: 150px;	
+	margin-top: -329px;
+}
+.bg2{
+	width: 456px;
+	float: left;
+	height: 470px;
+	padding: 18px;
+	margin-left: -30px;			
+}
+.bg2 img{
+	width: 100%;
+	height: 220px;	
+	border-radius: 10px;
+}
+/*END CSS content*/
+/*strat CSS promo*/
+#produk h2{
+	font-size: 35px;
+}
+#produk{
+	float: left;
+	padding-left: 40px;
+	padding:25px;
+	text-align: center;
+	margin-top: -250px;	
+	margin-left: 150px;
+}
+.BAGI3{
+	width: 250px;
+	float: left;
+	height: 470px;
+	padding: 18px;
+	margin-top: -10px;			
+}
+.BAGI3 img{
+	width: 100%;
+	height: 220px;	
+ 	border-radius: 10px;
+ 	border-style: outset;
+ 	margin-top: -15px;
+}
+.BAGI3 h3{
+	text-align: center;
+	font-size: 24px;
+}
+.BAGI3 b{
+	float: left;
+	margin-left: 150px;
+	margin-top: -20px;
+	font-size: 18px;
+}
+.BAGI3 button{
+	float: left;
+	margin-top: -10px;
+	background-color: 	#FFF8DC;
+	border-radius: 12px;
+	font-size: 15px;			
+}
+.BAGI3 s{
+	margin-left: -155px;
+	font-size: 16px;
+}
+#produk2{
+	float: left;
+	padding-left: 40px;
+	padding:25px;
+	text-align: center;
+	margin-top: -160px;	
+	margin-left: 150px;
+}
+.bg3{
+	width: 250px;
+	float: left;
+	height: 470px;
+	padding: 18px;
+	margin-top: -20px;			
+}
+.bg3 img{
+	width: 100%;
+	height: 220px;	
+ 	border-radius: 10px;
+ 	border-style: outset;
+ 	margin-top: -15px;
+}
+.bg3 h3{
+	text-align: center;
+	font-size: 24px;
+}
+.bg3 b{
+	float: left;
+	margin-left: 150px;
+	margin-top: -20px;
+	font-size: 18px;
+}
+.bg3 button{
+	float: left;
+	margin-top: -10px;
+	background-color: 	#FFF8DC;
+	border-radius: 12px;
+	font-size: 15px;			
+}
+.bg3 s{
+	margin-left: -155px;
+	font-size: 16px;
+}
+/*END CSS promo*/
+/*start CSS cokelat*/
+#cokelat h2{
+	font-size: 35px;
+}
+#cokelat{
+	float: left;
+	padding-left: 40px;
+	padding:25px;
+	text-align: center;
+	margin-top: -156px;	
+	margin-left: 20px;
+}
+.BAGI4{
+	width: 250px;
+	float: left;
+	height: 470px;
+	padding: 18px;
+	margin-top: -20px;			
+}
+.BAGI4 img{
+	width: 100%;
+	height: 220px;	
+	border-radius: 10px;
+	border-style: outset;
+	margin-top: -15px;
+}
+.BAGI4 h3{
+	text-align: center;
+	font-size: 24px;
+}
+.BAGI4 b{
+	float: left;
+	font-size:19px; 
+	margin-left: 5px;
+}
+.BAGI4 button{
+	float: left;
+	margin-top: 10px;
+	background-color: 	#FFF8DC;
+	border-radius: 12px;
+	margin-left: -115px;
+	font-size: 15px;			
+}			
+#cokelat2{
+	float: left;
+	padding-left: 40px;
+	padding:25px;
+	text-align: center;
+	margin-top: -149px;	
+	margin-left: 20px;
+}
+.bg4{
+	width: 250px;
+	float: left;
+	height: 470px;
+	padding: 18px;
+	margin-top: -20px;			
+}
+.bg4 img{
+	width: 100%;
+	height: 220px;	
+	border-radius: 10px;
+	border-style: outset;
+	margin-top: -15px;
+}
+.bg4 h3{
+	text-align: center;
+	font-size: 24px;
+}
+.bg4 b{
+	float: left;
+	font-size:19px; 
+	margin-left: 5px;
+}
+.bg4 button{
+	float: left;
+	margin-top: 10px;
+	background-color: 	#FFF8DC;
+	border-radius: 12px;
+	margin-left: -115px;
+	font-size: 15px;			
+}			
+/*END CSS cokelat*/
+/*start CSS keju*/
+#keju h2{
+	font-size: 35px;
+}
+#keju{
+	float: left;
+	padding-left: 40px;
+	padding:25px;
+	text-align: center;
+	margin-top: -156px;	
+	margin-left: 20px;
+}
+.bg4{
+	width: 250px;
+	float: left;
+	height: 470px;
+	padding: 18px;
+	margin-top: -10px;			
+}
+.bg4 img{
+	width: 100%;
+	height: 220px;	
+	border-radius: 10px;
+	border-style: outset;
+}
+.bg4 h3{
+	text-align: center;
+	font-size: 24px;
+}
+.bg4 b{
+	float: left;
+	font-size:19px; 
+	margin-left: 5px;
+}
+.bg4 button{
+	float: left;
+	margin-top: 10px;
+	background-color: 	#FFF8DC;
+	border-radius: 12px;
+	margin-left: -115px;
+	font-size: 15px;			
+}			
+#keju2{
+	float: left;
+	padding-left: 40px;
+	padding:25px;
+	text-align: center;
+	margin-top: -149px;	
+	margin-left: 20px;
+}
+.bgi4{
+	width: 250px;
+	float: left;
+	height: 470px;
+	padding: 18px;
+	margin-top: -10px;			
+}
+.bgi4 img{
+	width: 100%;
+	height: 220px;	
+	border-radius: 10px;
+	border-style: outset;
+	margin-top: -15px;
+}
+.bgi4 h3{
+	text-align: center;
+	font-size: 24px;
+}
+.bgi4 b{
+	float: left;
+	font-size:19px; 
+	margin-left: 5px;
+}
+.bgi4 button{
+	float: left;
+	margin-top: 10px;
+	background-color: 	#FFF8DC;
+	border-radius: 12px;
+	margin-left: -115px;
+	font-size: 15px;			
+}			
+/*END CSS keju*/
+/*start CS kacang*/
+#kacang h2{
+	font-size: 35px;
+}
+#kacang{
+	float: left;
+	padding-left: 40px;
+	padding:25px;
+	text-align: center;
+	margin-top: -156px;	
+	margin-left: 20px;
+}
+.bagi4{
+	width: 250px;
+	float: left;
+	height: 470px;
+	padding: 18px;
+	margin-top: -10px;			
+}
+.bagi4 img{
+	width: 100%;
+	height: 220px;	
+	border-radius: 10px;
+	border-style: outset;
+	margin-top: -15px;
+}
+.bagi4 h3{
+	text-align: center;
+	font-size: 24px;
+}
+.bagi4 b{
+	float: left;
+	font-size:19px; 
+	margin-left: 5px;
+}
+.bagi4 button{
+	float: left;
+	margin-top: 10px;
+	background-color: 	#FFF8DC;
+	border-radius: 12px;
+	margin-left: -115px;
+	font-size: 15px;			
+}	
+#kacang2{
+	float: left;
+	padding-left: 40px;
+	padding:25px;
+	text-align: center;
+	margin-top: -149px;	
+	margin-left: 20px;
+}
+.bagi4{
+	width: 250px;
+	float: left;
+	height: 470px;
+	padding: 18px;
+	margin-top: -10px;			
+}
+.bagi4 h3{
+	text-align: center;
+	font-size: 24px;
+}
+.bagi4 b{
+	float: left;
+	font-size:19px; 
+	margin-left: 5px;
+}
+.bagi4 button{
+	float: left;
+	margin-top: 10px;
+	background-color: 	#FFF8DC;
+	border-radius: 12px;
+	margin-left: -115px;
+	font-size: 15px;			
+}	
+/*ENS CSS kacang*/
+/*CSS FOOTER*/
+#foot{
+	float: left;
+	padding:20px;
+	text-align: center;
+	margin-top: -130px;	
+	background-color: ;
+	background-color: 	#FAEBD7;
+	height: 320px;
+}
+.b4{
+	width: 251px;
+	float: left;
+	height: 250px;
+	padding: 25px;
+	margin-top: 20px;
+	text-align: left;	 		
+} 	
+.cr{
+	margin-top: -15px;
+	text-align: center;
+}
+
+/*END CSS Footer*/

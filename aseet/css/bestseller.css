@@ -1,0 +1,213 @@
+ /*start css menu*/
+nav{
+	height: 70px;
+	padding: 10px;
+	margin-top: 10px;
+}
+.logo{
+	width: 10px;
+	height: 10px;
+	margin-top: -10px;
+	margin-left: 10px;
+}
+.logo img{
+	height: 90px;
+	float: left;
+}
+nav ul{
+	list-style-type: none;
+	text-align: center;
+	margin: 0;
+	margin-top: 5px;
+	font-family:'Agency FB';
+}
+nav li{
+	display: inline;
+	margin-top: 10px;
+}
+nav a{
+	text-decoration: none;
+	font-size: 25px;
+	color: black;
+	margin:	10px;
+}
+nav a:hover{
+	color: 		#8B4513;
+}
+/*END css menu*/
+/* strat css content*/
+#terlaris{
+	float: left;
+	padding-left: 40px;
+	padding:25px;
+	text-align: center;	
+	margin-left: 20px;
+}
+.bagi4{
+	width: 250px;
+	float: left;
+	height: 470px;
+	padding: 18px;
+	margin-top: -29px;			
+}
+.bagi4 img{
+	width: 100%;
+	height: 220px;	
+	border-radius: 10px;
+	border-style: outset;
+	margin-top: -15px;
+}
+.bagi4 h3{
+	text-align: center;
+	font-size: 24px;
+}
+.bagi4 b{
+	float: left;
+	font-size: 19px;
+}
+.bagi4 button{
+	float: left;
+	margin-top: 10px;
+	background-color: 	#FFF8DC;
+	border-radius: 12px;
+	margin-left: -115px;
+	font-size: 15px;			
+}
+#terlaris2{
+	float: left;
+	padding-left: 40px;
+	padding:10px;
+	text-align: center;
+	margin-top: -115px;	
+	margin-left: 20px;
+}
+.bg4{
+	width: 250px;
+	float: left;
+	height: 470px;
+	padding: 18px;
+	margin-top: -29px;			
+}
+.bg4 img{
+	width: 100%;
+	height: 220px;	
+	border-radius: 10px;
+	border-style: outset;
+	margin-top: -15px;
+}
+.bg4 h3{
+	text-align: center;
+	font-size: 24px;
+}
+.bg4 b{
+	float: left;
+	font-size: 19px;
+}
+.bg4 button{
+	float: left;
+	margin-top: 10px;
+	background-color: 	#FFF8DC;
+	border-radius: 12px;
+	margin-left: -115px;
+	font-size: 15px;			
+}
+#terlaris3{
+	float: left;
+	padding-left: 40px;
+	padding:25px;
+	text-align: center;
+	margin-top: -115px;	
+	margin-left: 20px;
+}
+.bgi4{
+	width: 250px;
+	float: left;
+	height: 470px;
+	padding: 18px;
+	margin-top: -29px;			
+}
+.bgi4 img{
+	width: 100%;
+	height: 220px;	
+	border-radius: 10px;
+	border-style: outset;
+	margin-top: -15px;
+}
+.bgi4 h3{
+	text-align: center;
+	font-size: 24px;
+}
+.bgi4 b{
+	float: left;
+	font-size: 19px;
+}
+.bgi4 button{
+	float: left;
+	margin-top: 10px;
+	background-color: 	#FFF8DC;
+	border-radius: 12px;
+	margin-left: -115px;
+	font-size: 15px;			
+}
+#terlaris4{
+	float: left;
+	padding-left: 40px;
+	padding:25px;
+	text-align: center;
+	margin-top: -130px;	
+	margin-left: 20px;
+}
+.BAGI4{
+	width: 250px;
+	float: left;
+	height: 470px;
+	padding: 18px;
+	margin-top: -29px;			
+}
+.BAGI4 img{
+	width: 100%;
+	height: 220px;	
+	border-radius: 10px;
+	border-style: outset;
+	margin-top: -15px;
+}
+.BAGI4 h3{
+	text-align: center;
+	font-size: 24px;
+}
+.BAGI4 b{
+	float: left;
+	font-size: 19px;
+}
+.BAGI4 button{
+	float: left;
+	margin-top: 10px;
+	background-color: 	#FFF8DC;
+	border-radius: 12px;
+	margin-left: -115px;
+	font-size: 15px;			
+}
+/* END css content*/
+/*CSS FOOTER*/
+#foot{
+	float: left;
+	padding:20px;
+	text-align: center;
+	margin-top: -130px;	
+	background-color: #FAEBD7;
+	height: 320px;
+}
+.b4{
+	width: 251px;
+	float: left;
+	height: 250px;
+	padding: 25px;
+	margin-top: 20px;	 		
+	text-align: left;
+} 	
+.cr{
+	margin-top: -15px;
+	text-align: center;
+}
+
+/*END CSS Footer*/

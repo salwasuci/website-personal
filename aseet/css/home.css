@@ -1,0 +1,140 @@
+/*start CSS menu*/
+nav{
+	height: 70px;
+	padding: 10px;
+	margin-top: 10px;
+}
+.logo{
+	width: 10px;
+	height: 10px;
+	margin-top: -10px;
+	margin-left: 10px;
+}
+.logo img{
+	height: 90px;
+	float: left;
+}
+nav ul{
+	list-style-type: none;
+	text-align: center;
+	margin: 0;
+	margin-top: 5px;
+	font-family:'Agency FB';
+}
+nav li{
+	display: inline;
+	margin-top: 10px;
+}
+nav a{
+	text-decoration: none;
+	font-size: 25px;
+	color: black;
+	margin:	10px;
+}
+nav a:hover{
+	color: 		#8B4513;
+}
+/*END CSS menu*/
+/*start CSS artikel*/
+#artikel{
+	margin-top: -15px;
+	padding: 30px;
+	margin-left: 55PX;
+
+}
+.bagi4{
+	text-align:justify;
+	width:100%;
+	 padding:8px;
+	 margin-top: 26px;
+	 margin-left: 10px;
+}
+
+.bagi4 img{
+	float:left; 
+	margin:0 8px 4px 0;
+	width: 220px;
+	height: 145px;
+	border-radius: 30px;
+	margin-top: 10px;
+	border-style: ridge;
+}
+.bagi4 p{
+	margin-top:-20px;
+	width: 1000px;
+	font-size: 20px;
+}
+.bagi4 h3{
+	margin-top: -30px;
+	font-size: 30px;
+}
+/*END CSS artikel*/
+/*start CSS content*/
+#content h2{
+	font-size: 38px;
+}
+#content{
+	float: left;
+	padding-left: 40px;
+	padding:25px;
+	text-align: center;
+	margin-top: -15px;	
+	margin-left: 150px;
+}
+.bagi3{
+	width: 250px;
+	float: left;
+	height: 470px;
+	padding: 18px;
+	margin-top: 15px;			
+}
+.bagi3 img{
+	width: 100%;
+	height: 220px;	
+ 	border-radius: 30px;
+ 	border-style: outset;
+}
+#content1{
+	float: left;
+	padding-left: 40px;
+	padding:25px;
+	text-align: center;
+	margin-top: -300px;	
+	margin-left: 150px;
+}
+.bagi3{
+	width: 250px;
+	float: left;
+	height: 470px;
+	padding: 18px;
+	margin-top: 15px;			
+}
+.bagi3 img{
+	width: 100%;
+	height: 220px;	
+ 	border-radius: 30px;
+ 	border-style: outset;
+}
+/*END CSS content*/
+/*CSS FOOTER*/
+#foot{
+	float: left;
+	padding:20px;
+	text-align: center;
+	background-color: #FAEBD7;
+	height: 320px;
+}
+.b4{
+	width: 251px;
+	float: left;
+	height: 250px;
+	padding: 25px;
+	margin-top: 20px;	 	
+	text-align: left;	
+} 	
+.cr{
+	margin-top: -15px;
+	text-align: center;
+}
+
+/*END CSS Footer
